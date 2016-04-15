@@ -1,4 +1,4 @@
 # blockbuster
 Videos I like
 
-* [function bash](https://youtu.be/yD2ekOEP9sU)
+* [The Functional Tao of Bash](https://youtu.be/yD2ekOEP9sU) - Garrett Smith
