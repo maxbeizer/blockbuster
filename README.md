@@ -7,3 +7,4 @@ Videos I like
 * [Should All Locks Have Keys?](https://youtu.be/VPBH1eW28mo) - CGP Grey
 * [Refactoring Ruby with Monads](https://youtu.be/J1jYlPtkrqQ) - Tom Stuart
 * [Architectural Interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70) - Jackson Gabbard
+* [AWS ReInvent Control Systems](https://www.youtube.com/watch?v=O8xLxNje30M)
