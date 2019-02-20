@@ -8,3 +8,4 @@ Videos I like
 * [Refactoring Ruby with Monads](https://youtu.be/J1jYlPtkrqQ) - Tom Stuart
 * [Architectural Interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70) - Jackson Gabbard
 * [AWS ReInvent Control Systems](https://www.youtube.com/watch?v=O8xLxNje30M) - Colm ?
+* [So You Want To Rewrite That...](https://www.youtube.com/watch?v=PhYUvtifJXk) - Camille Fournier
