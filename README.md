@@ -9,3 +9,4 @@ Videos I like
 * [Architectural Interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70) - Jackson Gabbard
 * [AWS ReInvent Control Systems](https://www.youtube.com/watch?v=O8xLxNje30M) - Colm ?
 * [So You Want To Rewrite That...](https://www.youtube.com/watch?v=PhYUvtifJXk) - Camille Fournier
+* [The Internet Down to the Electron](https://www.youtube.com/watch?v=NrGswSYyHyA) - Nathan Hubbard
